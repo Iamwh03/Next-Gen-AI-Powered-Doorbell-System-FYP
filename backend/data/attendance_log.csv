@@ -1,0 +1,2 @@
+log_type,userid,name,confidence,timestamp,proofphotopath
+BLOCKLIST_ALERT,b9b10a7b751140b9a8e8d05c090b8544,Wenhung,0.9740,2025-07-19 04:19:28,backend/data/alerts/BLOCKLIST_ALERT_2025-07-19_04-19-28.jpg
