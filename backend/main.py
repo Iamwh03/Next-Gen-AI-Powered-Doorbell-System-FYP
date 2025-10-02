@@ -863,10 +863,3 @@ def _process_job(uid: str, name: str, email: str):
             except Exception as e:
                 print("[archive] could not move folder:", e)
 
-
-# # PowerShell
-# setx SMTP_USER "chanwenhung@gmail.com"
-# setx SMTP_PASS "gfpbhbsmkhirsrur"
-# # Bash / zsh
-# echo 'export SMTP_USER="chanwenhung@gmail.com"' >> ~/.bashrc
-# echo 'export SMTP_PASS="gfpbhbsmkhirsrur"' >> ~/.bashrc
