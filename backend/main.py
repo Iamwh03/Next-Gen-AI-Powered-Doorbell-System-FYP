@@ -82,8 +82,8 @@ DEVICE = "cuda"
 # Email (use env vars for safety)
 SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.gmail.com")
 SMTP_PORT   = int(os.getenv("SMTP_PORT", 587))
-SENDER_EMAIL= "chanwenhung@gmail.com"
-SMTP_PASS   = "gfpbhbsmkhirsrur"  # 16-digit Gmail/Outlook app pw
+SENDER_EMAIL= "xxxxxxxxxxxxxxg@gmail.com"
+SMTP_PASS   = "xxxxxxxxxxxxxxxxxxx"  # 16-digit Gmail/Outlook app pw
 # ────────────────────────────────────────────────────────────
 # 1.  APP BOOT
 # ────────────────────────────────────────────────────────────
