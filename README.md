@@ -4,7 +4,7 @@ This project is a secure face registration and recognition system designed for a
 
 Key Features
 - Face Detection: YOLOv8 for real-time face localization.
-- Face Embedding: dlib/face_recognition generates 128-D embeddings stored securely.
+- Face Embedding: face_recognition generates 128-D embeddings stored securely.
 - Liveness Detection: MobileNetV3-Large model ensures the user is real and not a spoof (e.g., photo or video attack).
 - Deepfake Detection: Fine-tuned Xception-41 model checks for AI-manipulated content.
 - Yaw Pose Validation: MediaPipe Face Mesh verifies left, right, and center head turns for robust registration.
